@@ -1,13 +1,10 @@
 {
-"version": "2.1",
-"title": "Update Available!",
-"NewVersion": "2.1",
+"version": "3.0",
+"title": "آپدیت جدید منتشر شد",
+"NewVersion": "3.0",
 "downloadLink": "https://telegram.me/lizamods",
-"changeLogMessage": "- Bug fixes
-- Performance improvements
-
-A new update is available for the app. Please update for the latest features and improvements.",
-"negativebtn": "Later",
-"positivebtn": "Update Now",
-"changelogTitle": "Changelogs"
+"changeLogMessage": "سرور ها اپدیت شده و برخی از مسائل بهبود یافته و مشکلات جزئی رفع شده",
+"negativebtn": "بعداً",
+"positivebtn": "بروزرسانی",
+"changelogTitle": "تغییرات اخیر"
 }
