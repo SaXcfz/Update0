@@ -1,10 +1,10 @@
 {
-"version": "2.1",
+"version": "1.0",
 "title": "Torkani VPN",
-"NewVersion": "2.1",
+"NewVersion": "2.0",
 "downloadLink": "https://telegram.me/lizamods",
-"changeLogMessage": "رفع برخی از باگ ها و عدم سازگاری با برخی دستگاه ها  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ بهبود عملکرد و بهینه سازی",
-"negativebtn": "Later",
-"positivebtn": "Update Now",
-"changelogTitle": "Changelogs"
+"changeLogMessage": "1- رفع برخی از باگ ها و عدم سازگاری با برخی دستگاه ها ‌ ‌ ‌ ‌1- ‌ بهبود عملکرد و بهینه سازی",
+"negativebtn": "اپدیت نمیکنم",
+"positivebtn": "بروزرسانی",
+"changelogTitle": "تغییرات اخیر"
 }
