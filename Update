@@ -1,11 +1,9 @@
 {
 "version": "2.1",
-"title": "Update Available!",
+"title": "Torkani VPN",
 "NewVersion": "2.1",
 "downloadLink": "https://telegram.me/lizamods",
-"changeLogMessage": "- Bug fixes
-- Performance improvements ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-A new update is available for the app. Please update for the latest features and improvements.",
+"changeLogMessage": "رفع برخی از باگ ها و عدم سازگاری با برخی دستگاه ها  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ بهبود عملکرد و بهینه سازی",
 "negativebtn": "Later",
 "positivebtn": "Update Now",
 "changelogTitle": "Changelogs"
